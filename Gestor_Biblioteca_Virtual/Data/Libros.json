@@ -1,0 +1,121 @@
+[
+    {
+        "Titulo": "Juan perez",
+        "Autor": "Davinchi",
+        "Genero": "parla",
+        "Año": "1942",
+        "Estado": "Disponible"
+    },
+    {
+        "Titulo": "El ultimo secreto",
+        "Autor": "Dan brown",
+        "Genero": "Intriga, misterio y aventura",
+        "Año": "2025",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "Cien años de soledad",
+        "Autor": "Gabriel Garcia Marquez",
+        "Genero": "Realismo magico",
+        "Año": "1967",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "Don quijote de la mancha",
+        "Autor": "Miguel de Cervantes",
+        "Genero": "Novela clasica",
+        "Año": "1605",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "El principito",
+        "Autor": "Antoine de Saint-Exupery",
+        "Genero": "Fabula",
+        "Año": "1943",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "1984",
+        "Autor": "George Orwell",
+        "Genero": "Ciencia Ficcion",
+        "Año": "1949",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "La sombra del viento",
+        "Autor": "Carlos Ruiz Zafon",
+        "Genero": "Misterio",
+        "Año": "2001",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "Harry potter y la piedra filosofal",
+        "Autor": "J.K Rowling",
+        "Genero": "Fantasia",
+        "Año": "1997",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "El señor de los anillos: La comunidad del anillo",
+        "Autor": "J.R.R Tolkien",
+        "Genero": "Fantasia",
+        "Año": "1954",
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "La mala costumbre",
+        "Autor": "Alana.S Portero",
+        "Genero": "Drama",
+        "Año": 2023,
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "El Angel De La Ciudad",
+        "Autor": "Eva Garcia Saenz de Urturi",
+        "Genero": "Misterio",
+        "Año": 2023,
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "El nombre del viento",
+        "Autor": "Patrick Rothfuss",
+        "Genero": "Fantasia",
+        "Año": 2007,
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "Dune",
+        "Autor": "Frack Herbert",
+        "Genero": "Ciencia Ficcion",
+        "Año": 1965,
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "El hobbit",
+        "Autor": "J.R.R Tolkien",
+        "Genero": "Fantasia",
+        "Año": 1937,
+        "Estado": "Disponible",
+        "Usuario": ""
+    },
+    {
+        "Titulo": "La Chica Del Tren",
+        "Autor": "Paula Hawkins",
+        "Genero": "Suspenso",
+        "Año": 2015,
+        "Estado": "Disponible",
+        "Usuario": ""
+    }
+]
