@@ -15,7 +15,7 @@ def prestar():
             i["Usuario"] = usuario
 
             guardar(libros)
-            print("Libro prestado correctamente")
+            print(f"Libro '{titulo}' prestado correctamente a {usuario}")
             return
     print("Libro no encontrado")
 
@@ -31,6 +31,6 @@ def devolver():
             i["Usuario"] = ""
 
             guardar(libros)
-            print("Libro devuelto correctamente")
+            print(f"Libro '{titulo}' devuelto correctamente")
             return
     print("Libro no encontrado")

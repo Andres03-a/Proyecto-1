@@ -1,12 +1,5 @@
 [
     {
-        "Titulo": "Juan perez",
-        "Autor": "Davinchi",
-        "Genero": "parla",
-        "Año": "1942",
-        "Estado": "Disponible"
-    },
-    {
         "Titulo": "El ultimo secreto",
         "Autor": "Dan brown",
         "Genero": "Intriga, misterio y aventura",
