@@ -1,5 +1,7 @@
 import json
-archivo = "Data/Libros.json"
+import config
+
+archivo = config.ruta_absoluta/"Data/Libros.json"
 
 
 def mostrar_libro(i):

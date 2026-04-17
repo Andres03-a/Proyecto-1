@@ -1,6 +1,11 @@
 import json
+import config
+
+ruta_libros = config.ruta_absoluta/"Data/Libros.json"
+ruta_auditoria = config.ruta_absoluta/"Data/reporte_auditoria_estados.json"
+
 def inconsistencias():
-    archivo_libros = open("Data/Libros.json", "r", encoding="utf-8")
+    archivo_libros = open(ruta_libros, "r", encoding="utf-8")
     libros = json.load(archivo_libros)
     archivo_libros.close()
 
@@ -76,7 +81,7 @@ def inconsistencias():
     }
 }
     
-    archivo2 = open("Data/reporte_auditoria_estados.json", "w", encoding="uft-8")
+    archivo2 = open(ruta_auditoria, "w", encoding="uft-8")
     json.dump(reporte, archivo2, indent=4, ensure_ascii=False)
     archivo2.close()
 

@@ -1,5 +1,8 @@
 import json
 from gestion_libros import cargar_libros
+import config
+
+ruta_reporte = config.ruta_absoluta/"Data/reportes/reporte_libros.json"
 
 def reporte():
     libros = cargar_libros()
@@ -22,7 +25,7 @@ def reporte():
                 estado += f" a {libro['Usuario']}"
 
             print(f"- {libro['Titulo']} | {estado}")
-    nombre_archivo = "Data/reportes/reporte_libros.json"
+    nombre_archivo = ruta_reporte
 
     with open(nombre_archivo, "w") as file:
         json.dump(categorias,file, indent=4, ensure_ascii=False)
